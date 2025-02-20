@@ -1,4 +1,4 @@
-![Xivi 15](https://raw.githubusercontent.com/xiviorg/Xivi15/refs/heads/main/client/logo.png)
+<img src="https://raw.githubusercontent.com/xiviorg/Xivi15/refs/heads/main/client/logo.png" alt="Xivi 15" width="256px">
 
 # Xivi 15 | Deployable
 
