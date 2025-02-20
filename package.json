@@ -1,7 +1,7 @@
 {
-  "name": "Xivi 15",
-  "version": "0.1.0",
-  "description": "The Better WebOS for Unblocking the School Systems.",
+  "name": "xivi-reverse-proxy",
+  "version": "1.0.0-hotfix.1",
+  "description": "A deployable version of Xivi 15 for different hosting services.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -20,11 +20,13 @@
     "node": "22.x"
   },
   "repository": {
-    "url": "https://github.com/willoo0/Xivi15"
+    "url": "https://github.com/xiviorg/Xivi15"
   },
   "license": "MIT",
   "keywords": [
     "xivi15",
-    "unblocked"
+    "unblocked",
+    "proxy",
+    "middleware"
   ]
 }
