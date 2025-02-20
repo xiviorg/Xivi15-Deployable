@@ -1,12 +1,12 @@
-<kbd>
-   <img src="https://raw.githubusercontent.com/willoo0/Xivi15/refs/heads/main/client/logo.png" alt="Xivi 15" style="border-radius: 50%; width: 120px; height: auto;">
-</kbd>
-</p>
+![Xivi 15](https://raw.githubusercontent.com/xiviorg/Xivi15/refs/heads/main/client/logo.png)
 
-<h1>Xivi 15 | Deployable</h1>
+# Xivi 15 | Deployable
 
 ## Setup
+
 A deployable version of Xivi 15 for different hosting services.
+
+**Please set the environment variable `CONTACT` to your Discord username or email address, otherwise your proxy may be blocked without warning.**
 
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/xiviorg/Xivi15-Deployable)  
 
@@ -20,6 +20,6 @@ A deployable version of Xivi 15 for different hosting services.
 
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/xiviorg/Xivi15-Deployable)  
 
-
 ## Join us
-If you would like to support the development and get further information on Xivi 15, You can join the discord [here](http://dsc.gg/xiviservices). 
+
+If you would like to support the development and get further information on Xivi 15, You can join the discord [here](http://dsc.gg/xiviservices).
