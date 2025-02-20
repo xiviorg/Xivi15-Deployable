@@ -17,7 +17,7 @@
     "http-proxy-middleware": "^3.0.3"
   },
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "repository": {
     "url": "https://github.com/willoo0/Xivi15"
