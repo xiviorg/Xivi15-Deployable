@@ -17,7 +17,7 @@ const proxy = createProxyMiddleware({
         return;
       }
     }
-    return 'https://xivi.org';
+    return 'https://xivi.zeusteam.dev';
   },
   onProxyReq: (proxyReq, req, res) => {
     const clientip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
