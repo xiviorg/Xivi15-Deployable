@@ -1,6 +1,6 @@
 {
   "name": "xivi-reverse-proxy",
-  "version": "1.0.0-hotfix.1",
+  "version": "1.0.1",
   "description": "A reverse proxy for Xivi, allowing deployment on serverless hosting services.",
   "main": "index.js",
   "scripts": {
