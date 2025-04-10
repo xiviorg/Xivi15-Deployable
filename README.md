@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/xiviorg/Xivi15/refs/heads/main/client/logo.png" alt="Xivi 15" width="256px">
 
-# Xivi 15 | Deployable
+# Xivi | Deployable
 
 ## Setup
 
-A deployable version of Xivi 15 for different hosting services.
+A reverse proxy for Xivi, allowing deployment on serverless hosting services.
 
 **Please set the environment variable `CONTACT` to your Discord username or email address, otherwise your proxy may be blocked without warning.**
 
@@ -22,4 +22,4 @@ A deployable version of Xivi 15 for different hosting services.
 
 ## Join us
 
-If you would like to support the development and get further information on Xivi 15, You can join the discord [here](http://dsc.gg/xiviservices).
+If you would like to support the development and get further information on Xivi, You can join the discord [here](http://dsc.gg/xiviservices).
