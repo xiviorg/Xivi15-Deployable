@@ -1,8 +1,8 @@
 services:
   - type: web
     name: xivi15
-    env: node
-    buildCommand: "npm install"
+    runtime: "node"
+    buildCommand: "npm install --frozen-lockfile"
     startCommand: "node index.js"
     region: oregon
     plan: free
